@@ -1,0 +1,6 @@
+{
+    "ansible.python.interpreterPath": "c:\\Users\\dougl\\AppData\\Local\\Microsoft\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\python.exe",
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/ansible/ansible-lint/main/src/ansiblelint/schemas/vars.json": "file:///c%3A/Users/dougl/Documents/devops-mao-na-massa/ansible-lab/control-node/playbooks/roles/configuracao-default-so/main.yml"
+    }
+}
